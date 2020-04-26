@@ -1,0 +1,5 @@
+verb = input("Enter a verb: ")
+noun = input("Enter a noun: ")
+adj = input("Enter an Adjective: ")
+place = input("Enter a place: ")
+print (verb + " my " + noun + " very " + adj + " at " + place)
